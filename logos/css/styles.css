@@ -1,0 +1,7 @@
+/* Normal nodestone font */
+@import url(http://fonts.googleapis.com/css?family=Roboto+Mono:400,500,700);
+
+h1, h2 {
+    padding-top: 2em;
+    font-family: 'Roboto Mono';
+}
